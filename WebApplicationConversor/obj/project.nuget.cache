@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e51xy1Ektrbs4k5v727K++GT7mBj3A+wdXxS6aq3lcSOLhyEOGx0M3dK5j9fW3E9Hf/rmOvMrYVCl4XEXBdPHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elida\\source\\repos\\WebApplicationConversor\\WebApplicationConversor\\WebApplicationConversor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elida\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Elida\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Elida\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Elida\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Elida\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Elida\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
